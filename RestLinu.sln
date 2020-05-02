@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RestLinu.Services", "RestLinu.Services\RestLinu.Services.csproj", "{417D064C-380A-4BFB-90EA-46B9BBEBC853}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RestLinu.Console", "RestLinu.Console\RestLinu.Console.csproj", "{4AB40A33-03B8-48E1-A916-DDA91F07A389}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{417D064C-380A-4BFB-90EA-46B9BBEBC853}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{417D064C-380A-4BFB-90EA-46B9BBEBC853}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{417D064C-380A-4BFB-90EA-46B9BBEBC853}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{417D064C-380A-4BFB-90EA-46B9BBEBC853}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4AB40A33-03B8-48E1-A916-DDA91F07A389}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4AB40A33-03B8-48E1-A916-DDA91F07A389}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4AB40A33-03B8-48E1-A916-DDA91F07A389}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4AB40A33-03B8-48E1-A916-DDA91F07A389}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
