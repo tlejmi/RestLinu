@@ -4,6 +4,27 @@
     <e p="$USER_HOME$/.cache/JetBrains/Rider2020.1/extResources" t="IncludeRecursive" />
     <e p="$USER_HOME$/.cache/JetBrains/Rider2020.1/resharper-host/local/Transient/ReSharperHost/v201/SolutionCaches/_RestLinu.-1790396603.00" t="ExcludeRecursive" />
     <e p="$PROJECT_DIR$" t="IncludeFlat">
+      <e p="RestLinu.API" t="IncludeRecursive">
+        <e p="Controllers" t="Include">
+          <e p="WeatherForecastController.cs" t="Include" />
+        </e>
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="launchSettings.json" t="Include" />
+        </e>
+        <e p="RestLinu.API.csproj" t="IncludeRecursive" />
+        <e p="Startup.cs" t="Include" />
+        <e p="appsettings.Development.json" t="Include" />
+        <e p="appsettings.json" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="RestLinu.API.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
       <e p="RestLinu.Console" t="IncludeRecursive">
         <e p="Program.cs" t="Include" />
         <e p="RestLinu.Console.csproj" t="IncludeRecursive" />
@@ -18,15 +39,26 @@
       </e>
       <e p="RestLinu.Services" t="IncludeRecursive">
         <e p="RestLinu.Services.csproj" t="IncludeRecursive" />
-        <e p="RestLinuProcess.cs" t="Include" />
-        <e p="UfwCommand.cs" t="Include" />
+        <e p="RestLinu.Services.csproj.DotSettings" t="Include" />
+        <e p="apt" t="Include">
+          <e p="AptCommand.cs" t="Include" />
+        </e>
+        <e p="bash" t="Include">
+          <e p="BashCommand.cs" t="Include" />
+        </e>
         <e p="bin" t="ExcludeRecursive" />
+        <e p="linu" t="Include">
+          <e p="RestLinuProcess.cs" t="Include" />
+        </e>
         <e p="obj" t="ExcludeRecursive">
           <e p="Debug" t="Include">
             <e p="netcoreapp3.1" t="Include">
               <e p="RestLinu.Services.AssemblyInfo.cs" t="Include" />
             </e>
           </e>
+        </e>
+        <e p="ufw" t="Include">
+          <e p="UfwCommand.cs" t="Include" />
         </e>
       </e>
       <e p="RestLinu.sln" t="IncludeFlat" />

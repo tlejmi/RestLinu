@@ -4,6 +4,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RestLinu.Services", "RestLi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RestLinu.Console", "RestLinu.Console\RestLinu.Console.csproj", "{4AB40A33-03B8-48E1-A916-DDA91F07A389}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RestLinu.API", "RestLinu.API\RestLinu.API.csproj", "{3C34649B-A6CE-40D9-9788-C46821C22773}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{4AB40A33-03B8-48E1-A916-DDA91F07A389}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4AB40A33-03B8-48E1-A916-DDA91F07A389}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4AB40A33-03B8-48E1-A916-DDA91F07A389}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C34649B-A6CE-40D9-9788-C46821C22773}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C34649B-A6CE-40D9-9788-C46821C22773}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C34649B-A6CE-40D9-9788-C46821C22773}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C34649B-A6CE-40D9-9788-C46821C22773}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
